@@ -1,0 +1,6 @@
+@WolfBackend_HostAddress = http://localhost:5090
+
+GET {{WolfBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
